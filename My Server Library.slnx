@@ -6,5 +6,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RingBuffer/RingBuffer.vcxproj" Id="161e91bf-4bd8-4e1e-a582-59bcfa79c08d" />
+  <Project Path="Logger/Logger.vcxproj" Id="dae4032b-5339-4a1a-9bfa-2b6f56fb2a31" />
+  <Project Path="RingBuffer/RingBuffer.vcxproj" Id="78767fc7-6143-43d0-9cc5-aa1a0b697692" />
 </Solution>
